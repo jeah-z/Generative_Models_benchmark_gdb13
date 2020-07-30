@@ -16,7 +16,7 @@
 
 To calculate the function groups of the SMILES in the file gdb13_split_0.csv.
 ```
-python cal_ifg.py -n 40 -i gdb13_split_0
+python cal_ifg_atom.py -n 40 -i gdb13_split_0
 ```
 
 To calculate the ringsystems of the SMILES in the file gdb13_split_0.csv.
