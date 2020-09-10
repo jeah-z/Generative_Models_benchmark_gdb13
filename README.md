@@ -25,3 +25,10 @@ python cal_ringsystem.py -n 40 -i gdb13_split_0
 ```
 - -n   number of threads will be used to process the file.
 - -i   name of the input file without '.csv'
+
+
+To count the atom number in the compounds of gdb13_split_0.csv.
+```
+python atom_counts.py -n 2 -i Dataset/train.smi
+```
+After calculation, all the number of atoms in the compounds of input file will be saved into another file with a file suffix '_atom_counts.csv'. 
