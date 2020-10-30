@@ -1,0 +1,8 @@
+Models,Train_speed,Sample_speed
+CharRNN,28,0.2
+REINVENT,20,13
+VAE,17,7.4
+AAE,19,9.5
+ORGAN,18,8.6
+LatentGAN,18,0.1
+GraphINVENT,36,1.1
