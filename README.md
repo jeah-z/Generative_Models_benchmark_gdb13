@@ -1,12 +1,12 @@
 # Generative_Models_benchmark_gdb13
 
-This repository includes the script used training, sampling and analyzing of generative models in the project "Comparative study of deep generative models on chemical space coverage"
+This repository includes the script used training, sampling and analyzing of generative models in the project "Comparative study of deep generative models on chemical space coverage". The training and sampling of models were followed the instruction in the related Github repositories.
 
 ![image](https://github.com/jeah-z/Generative_Models_benchmark_gdb13/blob/master/summary/images/Coverage%20of%20GDB-13%20from%201B%20Sampled%20Compounds.png)
 Fig. 1 Coverage of GDB-13 from 1B Sampled Compounds
 
 ![image](https://github.com/jeah-z/Generative_Models_benchmark_gdb13/blob/master/summary/images/Distribution%20of%20ring%20systems%20and%20functional%20groups%20in%20GDB-13.png)
-Fig. 2 Distribution%20of%20ring%20systems%20and%20functional%20groups%20in%20GDB-13
+Fig. 2 Distribution of ring systems and functional groups in GDB-13
 
 ## Requirements:
 * rdkit
